@@ -1,6 +1,6 @@
 // Bump this version string any time index.html (or any cached asset) changes.
 // Changing it forces clients to fetch fresh copies instead of serving stale cache.
-const CACHE_NAME = "circadianshift-v1";
+const CACHE_NAME = "circadianshift-v2";
 
 const ASSETS = [
   "./",
